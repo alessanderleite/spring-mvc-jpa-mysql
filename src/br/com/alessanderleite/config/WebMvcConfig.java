@@ -1,4 +1,4 @@
-package br.com.alessanderleite.customer.config;
+package br.com.alessanderleite.config;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.ComponentScan;
